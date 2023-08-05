@@ -1,6 +1,6 @@
 # new-ELECTRA-and-EM4102-cloning-script LUA
 
-                  ELECTRA or EM410x fob cloning SCRIPT 
+                  ELECTRA or EM410x fob cloning SCRIPT
              v1.1.14  01/08/2023 made by Jarek Barwinski 
 
    Cloning new ELECTRA tags or EM410x to T5577 tag. This script changes 
